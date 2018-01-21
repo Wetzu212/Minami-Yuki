@@ -1,0 +1,5 @@
+{
+    "token": "BOT_TOKEN_HERE",
+    "prefix": ">:", //You can change it
+    "owner-id": "YOUR_ID"
+}
