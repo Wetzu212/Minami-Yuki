@@ -1,13 +1,16 @@
 {
-  "name": "MinamiYuki",
-  "description": "My first ever moderation and fun discord bot, hosted using Heroku.",
-  "version": "1.0.0",
+  "name": "yuki",
+  "version": "0.0.1",
+  "description": "My first ever discord bot! (With moderation and fun commands)",
   "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
-  }
+    "discord.js": "^11.3.0",
+    "infinite-loop": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wetzu",
+  "license": "ISC"
 }
